@@ -1,0 +1,9 @@
+const SET_USER_REQUEST = 'SET_USER_REQUEST';
+const SET_USER_ERROR = 'SET_USER_ERROR';
+const SET_USER_SUCCESS = 'SET_USER_SUCCESS';
+
+export const UserConstants = {
+    SET_USER_REQUEST,
+    SET_USER_ERROR,
+    SET_USER_SUCCESS
+}
